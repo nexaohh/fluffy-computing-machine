@@ -916,14 +916,14 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, ready_event, region, reconnect_d
                 if inPuTMsG.strip() in ("/help", "unfair", "help", "bot help"):
 
                     # 01 & 02: Squad & Attack
-                    h1 = f"""[b][c][A855F7]╭━━━〔 👑 UNFAIR YT 〕━━━╮
-[b][c][FFFFFF]       ⚡ COMMAND MENU ⚡
+                    h1 = f"""[b][c][A855F7]╭━━━〔 👑Sir Ɲexohhh.. 〕━━━╮
+[b][c][FFFFFF]       ⚡ COMMAND MENU SUIIIIIIIII ⚡
 [b][c][A855F7]╰━━━━━━━━━━━━━━━━━━╯
 
 [b][c][00FFFF]╭━━〔 01 • SQUAD 〕━━╮
-[b][c][FFFFFF] ◈ /join <code>
-[b][c][FFFFFF] ◈ /exit
-[b][c][FFFFFF] ◈ /3  •  /5  •  /6
+[b][c][FFFFFF] ◈ /join <code>SUIIIIIIIIIII
+[b][c][FFFFFF] ◈ /exit SUIIIIIII
+[b][c][FFFFFF] ◈ /3  •  /5  •  /6 SUIIIIIIII
 [b][c][00FFFF]╰━━━━━━━━━━━━━━━━╯
 
 [b][c][00FFFF]╭━━〔 02 • ATTACK 〕━━╮
@@ -1581,12 +1581,12 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, ready_event, region, reconnect_d
                             f"[B][C][FF0000]{name} R4nddi ka bachha! 🤬",
                             f"[B][C][FF0000]{name} g.aand ka keeda! 🐛",
                             f"[B][C][FF0000]{name} ki bhe.n ki chu.tt 💢",
-                            f"[B][C][FF0000]{name} madarchod! 😡",
-                            f"[B][C][FF0000]{name} bhadwa! 🤬",
+                            f"[B][C][FF0000]{name} mada.rchod! 😡",
+                            f"[B][C][FF0000]{name} bhad.wa! 🤬",
                             f"[B][C][FF0000]{name} randi ka bachcha! 😤",
                             f"[B][C][FF0000]{name} maili  r4nd 🐕",
                             f"[B][C][FF0000]{name} nexxoo ka aand! 💀",
-                            f"[B][C][FF0000]{name} hai is duniya ka muth 🐶",
+                            f"[B][C][FF0000]{name} teri m.aa ka bosda pathjaga 🐶",
                             f"[B][C][FF0000]{name} chu.tiya! 🤡",
                         ]
                         for m in msgs:
