@@ -1,11 +1,33 @@
-import requests , json , binascii , time , urllib3 , base64 , datetime , re ,socket , threading , random , os , asyncio
+import requests
+import json
+import binascii
+import time
+import urllib3
+import base64
+import datetime
+import re
+import socket
+import threading
+import random
+import os
+import asyncio
+
 from protobuf_decoder.protobuf_decoder import Parser
 from Crypto.Cipher import AES
-from Crypto.Util.Padding import pad , unpad
+from Crypto.Util.Padding import pad, unpad
 from datetime import datetime
 from google.protobuf.timestamp_pb2 import Timestamp
 
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+urllib3.disable_warnings(
+    urllib3.exceptions.InsecureRequestWarning
+)
+
+Key, Iv = (
+    bytes([89, 103, 38, 116, 99, 37, 68, 69,
+           117, 104, 54, 37, 90, 99, 94, 56]),
+    bytes([54, 111, 121, 90, 68, 114, 50, 50,
+           69, 51, 121, 99, 104, 106, 77, 37])
+)
 
 Key , Iv = bytes([89, 103, 38, 116, 99, 37, 68, 69, 117, 104, 54, 37, 90, 99, 94, 56]) , bytes([54, 111, 121, 90, 68, 114, 50, 50, 69, 51, 121, 99, 104, 106, 77, 37])
 
