@@ -24,8 +24,8 @@ async def MaiiiinE():
     global bot_uid, ToKen, region
 
     # ─── यहाँ अपना Guest UID और Password डालें ───
-    Uid = '8340659495'
-    Pw  = 'AE29CAB711AF1A121EA078DCB0A9962A25E283BEBE3F5594216D75320A47243B'
+    Uid = '8343116128'
+    Pw  = 'B1CBEFB7E5CE7AAC8155F222207E49035C90A7957640CCC22248FF4D916A7CFA'
     REGION_PREF = "IND"
 
     # ─── Login ───
