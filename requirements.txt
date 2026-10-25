@@ -4,5 +4,6 @@ urllib3
 httpx
 google-play-scraper
 protobuf-decoder
-cfonts
 protobuf
+cfonts
+requests
