@@ -1,8 +1,8 @@
+httpx
+google-play-scraper
+protobuf-decoder
+pycryptodome
 requests
 urllib3
 protobuf
-protobuf-decoder
-pycryptodome
-aiohttp
-httpx
 cfonts
