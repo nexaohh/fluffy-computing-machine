@@ -1,1 +1,8 @@
 
+aiohttp
+pycryptodome
+urllib3
+httpx
+google-play-scraper
+protobuf-decoder
+cfonts
