@@ -916,17 +916,17 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, ready_event, region, reconnect_d
                 if inPuTMsG.strip() in ("/help", "unfair", "help", "bot help"):
 
                     # 01 & 02: Squad & Attack
-                    h1 = f"""[b][c][A855F7]╭━━━〔 👑Sir Ɲexohhh.. 〕━━━╮
-[b][c][FFFFFF]       ⚡ COMMAND MENU SUIIIIIIIII ⚡
+                    h1 = f"""[b][c][A855F7]╭━━━〔 👑Sir Ɲexohhh.. RONALDO BHAI KI JAY 〕━━━╮
+[b][c][FFFFFF]       ⚡ SUIIIIIIIII ⚡
 [b][c][A855F7]╰━━━━━━━━━━━━━━━━━━╯
 
-[b][c][00FFFF]╭━━〔 01 • SQUAD 〕━━╮
+[b][c][00FFFF]╭━━〔 01 • DIL ME ATA HU SAMJ ME NAHI 〕━━╮
 [b][c][FFFFFF] ◈ /join <code>SUIIIIIIIIIII
 [b][c][FFFFFF] ◈ /exit SUIIIIIII
 [b][c][FFFFFF] ◈ /3  •  /5  •  /6 SUIIIIIIII
 [b][c][00FFFF]╰━━━━━━━━━━━━━━━━╯
 
-[b][c][00FFFF]╭━━〔 02 • ATTACK 〕━━╮
+[b][c][00FFFF]╭━━〔 02 • ATTACK CMD 〕━━╮
 [b][c][FFFFFF] ◈ /spm <uid>
 [b][c][FFFFFF] ◈ /stp <uid>
 [b][c][FFFFFF] ◈ /lag <code>
@@ -951,7 +951,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, ready_event, region, reconnect_d
 [b][c][FFFFFF] ◈ /alltitles
 [b][c][A855F7]╰━━━━━━━━━━━━━━━━╯"""
 
-                    h3 = f"""[b][c][FFD700]╭━━〔 05 • FUN 〕━━╮
+                    h3 = f"""[b][c][FFD700]╭━━〔 CR7 ALYAWZZ BRO 〕━━╮
 [b][c][FFFFFF] ◈ /love <name>
 [b][c][FFFFFF] ◈ /gali <name>
 [b][c][FFFFFF] ◈ /rt <name>
@@ -1029,14 +1029,14 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, ready_event, region, reconnect_d
 [b][c][FFD700]┗━━━━━━━━━━━━━━━━━━━━━━┛
 
 [b][c][00FFFF]┏━━ 02 │ DEVELOPER INFO ━━┓
-[b][c][FFFF00]   ◈ Developer: [FFFFFF]Ɲexohhh ...
-[b][c][FFFF00]   ◈ Telegram: [00FFFF]@Ɲexohhh ...
-[b][c][FFFF00]   ◈ Instagram: [00FFFF]Ɲexohhh ...
+[b][c][FFFF00]   ◈ Developer: [FFFFFF]Ɲexohhh
+[b][c][FFFF00]   ◈ Telegram: [00FFFF]@Ɲexohhh
+[b][c][FFFF00]   ◈ Instagram: [00FFFF]Ɲexohhh
 [b][c][00FFFF]┗━━━━━━━━━━━━━━━━━━━━━━┛
 
 [b][c][FF00FF]┏━━ 03 │ OFFICIAL LINK ━━┓
 [b][c][FFFF00]   ◈ Telegram:
-[b][c][00FFFF]   https://t.me/Ɲexohhh ...
+[b][c][00FFFF]   @Ɲexohhh
 [b][c][FF00FF]┗━━━━━━━━━━━━━━━━━━━━━━┛
 
 [b][c][FFD700]┏━━ 04 │ PURCHASE ━━┓
@@ -1044,7 +1044,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, ready_event, region, reconnect_d
 [b][c][FFD700]┗━━━━━━━━━━━━━━━━┛
 
 [b][c][FF00FF]◆━━━━━━━━━━━━━━━━━━━━◆
-[b][c][00FFFF]       Ɲexohhh ...
+[b][c][00FFFF]       Ɲexohhh
 [b][c][FF00FF]◆━━━━━━━━━━━━━━━━━━━━◆"""
 
                     try:
