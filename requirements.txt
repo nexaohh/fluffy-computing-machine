@@ -5,3 +5,4 @@ protobuf-decoder
 pycryptodome
 aiohttp
 httpx
+cfonts
